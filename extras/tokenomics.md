@@ -4,9 +4,9 @@
 
 **Ticker:** CFI
 
-**Contract Address:** 0x7859b01bbf675d67da8cd128a50d155cd881b576
+**Contract Address:** 0xf47dc2199336d5b93b611cd214c827a68a0f6b43
 
-**Chain:** Binance Smart Chain (BEP-20)
+**Chain: Cube Chain**
 
 **Total Supply:** 1 Billion​
 
